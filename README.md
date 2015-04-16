@@ -1,2 +1,3 @@
-# yf_extra_plugins
-YF extra plugins
+YF extra plugins repository
+
+http://github.com/yfix/yf

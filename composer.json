@@ -1,0 +1,14 @@
+{
+    "name": "yfix/yf_extra_plugins",
+	"type": "library",
+    "description": "YF PHP Framework extra plugins",
+	"keywords": ["php","framework","plugins"],
+    "license": "MIT",
+    "authors": [{
+        "name": "yfix",
+        "email": "yfix.dev@gmail.com"
+    }],
+	"require": {
+		"php": ">=5.3.3"
+	}
+}
